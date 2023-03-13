@@ -19,6 +19,7 @@ int main (){
 
     //status = "genap"
     status = "genap";
+    
     //else
     else
     //status = "ganjil"
